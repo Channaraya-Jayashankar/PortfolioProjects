@@ -1,4 +1,4 @@
-# Covid-19 Data Exploration with SQL
+# Covid-19 Data Exploration with SQL 🦠
 
 ## Project Overview
 This project explores a Covid-19 dataset using **SQL** to uncover valuable insights such as infection rates, death percentages, vaccination rollouts, and trends across different countries and continents. The analysis demonstrates advanced SQL skills, including:
